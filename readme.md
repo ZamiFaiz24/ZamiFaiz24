@@ -1,12 +1,16 @@
-# Hi there! 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-### I'm Faiz Zamzami 👨‍💻
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Faiz+Zamzami;" />
+</h1>
 
-Welcome to my GitHub profile! I'm a Data Science student and an aspiring backend developer passionate about coding, data analysis, and web development. I enjoy learning new technologies and building projects that solve real-world problems.
+<br/>
+
+<h3 align="center">Welcome to my GitHub profile! I'm a Data Science student and an aspiring backend developer passionate about coding, data analysis, and web development. I enjoy learning new technologies and building projects that solve real-world problems.</h3>
 
 ---
 
-### 🚀 About Me:
+<h2 align="center"> 🚀 About Me: </h2>
 - 🎓 I am currently a 5th-semester student majoring in Data Science at University of Putra Bangsa.
 - 🌱 I’m currently learning backend development using Laravel and exploring new tools like frameworks and APIs.
 - 💻 I have experience with front-end development and building web applications.
@@ -15,51 +19,32 @@ Welcome to my GitHub profile! I'm a Data Science student and an aspiring backend
 
 ---
 
-### 🛠️ Languages & Tools:
-- **Languages:**
-<div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
+<h2 align="center">⚒️ Languages-Frameworks-Tools: </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,java,mysql" /><br>
 </div>
-- **Frameworks:** 
-<div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/> 
-</div>
-- **Databases:** 
-<div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
-</div>
-  - MySQL | Firebase
-- **Tools:**
-<div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/> 
-</div>
+
+<br/>
+<hr/>
+
 ---
 
-### 🌟 Featured Projects:
+<h2 align="center"> 🌟 Featured Projects: </h2>
 1. **[Car Toys](https://github.com/ZamiFaiz24/Portofolio.git)**
    - A web platform for buying and selling electric toy cars for children. Built using HTML, CSS, and Laravel.
    - Features: CRUD operations, user authentication, and cart management.
 ---
 
-### 📈 GitHub Stats:
+<h2 align="center"> 📈 GitHub Stats: </h2>
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZamiFaiz24&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZamiFaiz24&layout=compact&theme=radical)
 
 ---
 
-### 📫 How to reach me:
-
-### 📫 Touch Me:
+<h2 align="center"> 📫 Touch Me: </h2>
 
 <div align="left">
   <a href="faizzamzami10p@gmail.com">
@@ -74,4 +59,4 @@ Welcome to my GitHub profile! I'm a Data Science student and an aspiring backend
 </div>
 ---
 
-**Thank you for visiting my profile!** 🙏
+<h2 align="center"> Thank you for visiting my profile! 🙏 </h2>
