@@ -16,8 +16,15 @@ Welcome to my GitHub profile! I'm a Data Science student and an aspiring backend
 ---
 
 ### 🛠️ Languages & Tools:
-- **Languages:** 
-  - Python | PHP | SQL | Java | JavaScript | HTML | CSS
+- **Languages:**
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
+</div>
 - **Frameworks:** 
   - Laravel | Django
 - **Databases:** 
@@ -28,16 +35,15 @@ Welcome to my GitHub profile! I'm a Data Science student and an aspiring backend
 ---
 
 ### 🌟 Featured Projects:
-1. **[Car Toys](https://github.com/your-username/project-name)**
+1. **[Car Toys](https://github.com/ZamiFaiz24/Portofolio.git)**
    - A web platform for buying and selling electric toy cars for children. Built using HTML, CSS, and Laravel.
    - Features: CRUD operations, user authentication, and cart management.
-   
 ---
 
 ### 📈 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZamiFaiz24&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZamiFaiz24&layout=compact&theme=radical)
 
 ---
 
