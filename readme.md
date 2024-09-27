@@ -8,6 +8,7 @@
 
 <h3 align="center">Welcome to my GitHub profile! I'm a Data Science student and an aspiring backend developer passionate about coding, data analysis, and web development. I enjoy learning new technologies and building projects that solve real-world problems.</h3>
 
+<br/>
 <hr/>
 
 <h2 align="center"> 🚀 About Me: </h2>
@@ -22,6 +23,7 @@
 
 💡 Interested in: Data Analysis, Backend Development, and Web Technologies.
 
+<br/>
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools: </h2>
@@ -35,12 +37,12 @@
 <hr/>
 
 <h2 align="center"> 🌟 Featured Projects: </h2>
-<hr/>
-
+<br/>
 ### [Car Toys](https://github.com/ZamiFaiz24/Portofolio.git)
    - A web platform for buying and selling electric toy cars for children. Built using **HTML**, **CSS**, and **Laravel**.
    - **Features**: CRUD operations, user authentication, and cart management.
 
+<br/>
 <hr/>
 
 <h2 align="center">📈 GitHub Stats: </h2>
@@ -52,15 +54,11 @@
   <img width=325 align="center" src="https://github-readme-stats-ZamiFaiz24.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
-
-<hr/>
-
 <br/>
+<hr/>
 
 <h2 align="center"> 📫 Touch Me: </h2>
 <br/>
-
 <div align="left">
   <a href="faizzamzami10p@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40" height="40"/>
@@ -73,8 +71,9 @@
   </a>
 </div>
 
+<br/>
 <hr/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+visiting+my+profile!+🙏;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for;visiting+my+profile!+🙏;" />
 </h1>
