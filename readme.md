@@ -18,20 +18,30 @@ Welcome to my GitHub profile! I'm a Data Science student and an aspiring backend
 ### 🛠️ Languages & Tools:
 - **Languages:**
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
 </div>
 - **Frameworks:** 
-  - Laravel | Django
+<div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/> 
+</div>
 - **Databases:** 
+<div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
+</div>
   - MySQL | Firebase
-- **Tools:** 
-  - Git | GitHub | XAMPP | Visual Studio Code | Jupyter
-
+- **Tools:**
+<div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/> 
+</div>
 ---
 
 ### 🌟 Featured Projects:
@@ -48,8 +58,20 @@ Welcome to my GitHub profile! I'm a Data Science student and an aspiring backend
 ---
 
 ### 📫 How to reach me:
-- Email: [faizzamzami10p@gmail.com](faizzamzami10p@gmail.com)
-- LinkedIn: [Faiz Zamzami](www.linkedin.com/in/faiz-zamzami-1189492ab)
+
+### 📫 Touch Me:
+
+<div align="left">
+  <a href="faizzamzami10p@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="www.linkedin.com/in/faiz-zamzami-1189492ab">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/zamifaiz24/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+  </a>
+</div>
 ---
 
 **Thank you for visiting my profile!** 🙏
