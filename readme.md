@@ -1,35 +1,35 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ZamiFaiz24.ZamiFaiz24" />
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ZamiFaiz24.ZamiFaiz24" />
+</p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Faiz+Zamzami;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Faiz+Zamzami;" />
 </h1>
 
-<br/>
+<h3 align="center">
+  Selamat datang! Saya seorang mahasiswa Ilmu Data dan calon Backend Developer yang bersemangat tentang coding, analisis data, dan pengembangan web.
+</h3>
 
-<h3 align="center">Welcome to my GitHub profile! I'm a Data Science student and an aspiring backend developer passionate about coding, data analysis, and web development. I enjoy learning new technologies and building projects that solve real-world problems.</h3>
+<br>
 
-<br/>
-<hr/>
+---
 
-<h2 align="center"> 🚀 About Me: </h2>
-<br/>
-🎓 I am currently a 5th-semester student majoring in Data Science at University of Putra Bangsa.
+### 🚀 Tentang Saya
 
-🌱 I’m currently learning backend development using Laravel and exploring new tools like frameworks and APIs.
+- 🎓 Saat ini mahasiswa semester 5 jurusan **Ilmu Data** di **Universitas Putra Bangsa**.
+- 🌱 Sedang fokus belajar **Backend Development** menggunakan **Laravel** dan mengeksplorasi API.
+- 💻 Berpengalaman dengan pengembangan front-end dan membangun aplikasi web.
+- 💡 Tertarik pada: **Analisis Data, Backend Development, dan Teknologi Web**.
 
-💻 I have experience with front-end development and building web applications.
+---
 
-🔍 My focus is on solving data-driven problems and improving user experiences through programming.
+### 🤝 Mari Terhubung
 
-💡 Interested in: Data Analysis, Backend Development, and Web Technologies.
-
-<br/>
-
-<div align="center"> 
+<p align="center">
   <a href="mailto:faizzamzami10p@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
-  <a href="www.linkedin.com/in/faiz-zamzami" target="_blank">
+  <a href="https://www.linkedin.com/in/faiz-zamzami" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://ZamiFaiz24.github.io" target="_blank">
@@ -41,35 +41,39 @@
   <a href="https://www.instagram.com/zamifaiz24" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</div>
+</p>
 
-<br/>
-<hr/>
+---
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools: </h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,java,mysql" /><br>
-</div>
+### 🛠️ Tech Stack
 
-<br/>
-<hr/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,python,r,java" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,nodejs,git,github,figma,vscode" />
+</p>
 
-<h2 align="center"> 🌟 Featured Projects: </h2>
-<br/>
+---
 
-<br/>
-<hr/>
+### 🌟 Proyek Unggulan
 
-<h2 align="center">📈 GitHub Stats: </h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ZamiFaiz24&show_icons=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZamiFaiz24&layout=compact&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-</div>
+<p align="center">
+  <a href="https://github.com/ZamiFaiz24/NAMA_REPO_1" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZamiFaiz24&repo=NAMA_REPO_1&theme=react&border_radius=10" alt="Nama Proyek 1" />
+  </a>
+  <a href="https://github.com/ZamiFaiz24/NAMA_REPO_2" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZamiFaiz24&repo=NAMA_REPO_2&theme=react&border_radius=10" alt="Nama Proyek 2" />
+  </a>
+</p>
 
-<br/>
-<hr/>
+---
 
-<h1 align="center">Thank's for Visit My Profile 🙏</h1>
+### 📈 Statistik GitHub Saya
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ZamiFaiz24&show_icons=true&theme=react&border_radius=10" alt="ZamiFaiz24's GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZamiFaiz24&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+  <br><br>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZamiFaiz24&theme=react&border_radius=10" alt="GitHub Streak" />
+</p>
+
+---
