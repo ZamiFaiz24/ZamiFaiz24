@@ -1,5 +1,9 @@
 name: Generate Snake
 
+# TAMBAHKAN BARIS INI
+permissions:
+  contents: write
+  
 on:
   schedule:
     - cron: "0 */6 * * *"
