@@ -7,36 +7,36 @@
 </h1>
 
 <h3 align="center">
-  Selamat datang! Saya seorang mahasiswa Ilmu Data dan calon Backend Developer yang bersemangat tentang coding, analisis data, dan pengembangan web.
+  Welcome! I'm a Data Science student with a passion for Backend Development, data analysis, and building impactful web solutions.
 </h3>
 
 <br>
 
 ---
 
-### 🚀 Tentang Saya
+### 🚀 About Me
 
-- 🎓 Saat ini mahasiswa semester 5 jurusan **Ilmu Data** di **Universitas Putra Bangsa**.
-- 🌱 Sedang fokus belajar **Backend Development** menggunakan **Laravel** dan mengeksplorasi API.
-- 💻 Berpengalaman dengan pengembangan front-end dan membangun aplikasi web.
-- 💡 Tertarik pada: **Analisis Data, Backend Development, dan Teknologi Web**.
+- 🎓 Currently a 7th-semester **Data Science** student at **Putra Bangsa University**.
+- 🌱 Focusing on **Backend Development**, currently building RESTful APIs with **Laravel**.
+- 💻 Experienced in front-end development and building full-stack web applications from concept to deployment.
+- 💡 Interested in: **Data Analysis, Backend Architecture, Machine Learning, and Web Technologies**.
 
 ---
 
-### 🤝 Mari Terhubung
+### 🤝 Connect with Me
 
 <p align="center">
   <a href="mailto:faizzamzami10p@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/faiz-zamzami" target="_blank">
+  <a href="https://www.linkedin.com/in/faiz-zamzami-1189492ab/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://ZamiFaiz24.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  <a href="https://zamifaiz.my.id/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://x.com/Z_Zami24" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://x.com/Zami1024" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
   <a href="https://www.instagram.com/zamifaiz24" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -48,32 +48,49 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,python,r,java" /><br>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,nodejs,git,github,figma,vscode" />
-</p>
-
----
-
-### 🌟 Proyek Unggulan
-
-<p align="center">
-  <a href="https://github.com/ZamiFaiz24/NAMA_REPO_1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZamiFaiz24&repo=NAMA_REPO_1&theme=react&border_radius=10" alt="Nama Proyek 1" />
-  </a>
-  <a href="https://github.com/ZamiFaiz24/NAMA_REPO_2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZamiFaiz24&repo=NAMA_REPO_2&theme=react&border_radius=10" alt="Nama Proyek 2" />
-  </a>
-</p>
-
----
-
-### 📈 Statistik GitHub Saya
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ZamiFaiz24&show_icons=true&theme=react&border_radius=10" alt="ZamiFaiz24's GitHub stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZamiFaiz24&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+  <strong>Backend Development:</strong><br>
+  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,sqlite" />
   <br><br>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZamiFaiz24&theme=react&border_radius=10" alt="GitHub Streak" />
+  <strong>Frontend Development:</strong><br>
+  <img src="https://skillicons.dev/icons?i=vue,react,tailwind,html,css,javascript,typescript" />
+  <br><br>
+  <strong>Tools & Platforms:</strong><br>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/ZamiFaiz24/Capstone_Project" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZamiFaiz24&repo=Capstone_Project&theme=react&border_radius=10" alt="Capstone Project" />
+  </a>
+  
+  <a href="https://github.com/ZamiFaiz24/BE_BPS_Mobile" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZamiFaiz24&repo=BE_BPS_Mobile&theme=react&border_radius=10" alt="Backend BPS Mobile" />
+  </a>
+</p>
+
+---
+
+### 📈 My GitHub Statistic
+
+<h3 align="center">📈 Statistic </h3>
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ZamiFaiz24&show_icons=true&theme=react&border_radius=10" alt="Statistik GitHub ZamiFaiz24" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZamiFaiz24&layout=compact&theme=react&border_radius=10&exclude_repo=Capstone_Project,Analisis-Sentimen-Pilpres-2024&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+</p>
+
+<h3 align="center">📈 GitHub Activity </h3>
+<p align="center">
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZamiFaiz24&theme=react&border_radius=10" alt="GitHub Streak" />
+  <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZamiFaiz24&theme=react&hide_border=true&color=20c20e" alt="Aktivitas Kontribusi" />
+</p>
+
+<h3 align="center">Contribution Snake 🐍</h3>
+<p align="center">
+  <img src="https://github.com/ZamiFaiz24/ZamiFaiz24/blob/output/github-contribution-grid-snake-dark.svg" alt="snek" />
 </p>
 
 ---
