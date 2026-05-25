@@ -48,49 +48,88 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <strong>Backend Development:</strong><br>
   <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,sqlite" />
-  <br><br>
-  <strong>Frontend Development:</strong><br>
-  <img src="https://skillicons.dev/icons?i=vue,react,tailwind,html,css,javascript,typescript" />
-  <br><br>
-  <strong>Tools & Platforms:</strong><br>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,react,tailwind,js,ts" />
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
 </p>
 
 ---
 
-### 🌟 Featured Projects
+## 🌟 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/ZamiFaiz24/Capstone_Project" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZamiFaiz24&repo=Capstone_Project&theme=react&border_radius=10" alt="Capstone Project" />
-  </a>
-  
-  <a href="https://github.com/ZamiFaiz24/BE_BPS_Mobile" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZamiFaiz24&repo=BE_BPS_Mobile&theme=react&border_radius=10" alt="Backend BPS Mobile" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/ZamiFaiz24/Capstone_Project">
+  <img
+    width="49%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ZamiFaiz24&repo=Capstone_Project&theme=react&border_radius=12&hide_border=true"
+  />
+</a>
+
+<a href="https://github.com/ZamiFaiz24/BE_BPS_Mobile">
+  <img
+    width="49%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ZamiFaiz24&repo=BE_BPS_Mobile&theme=react&border_radius=12&hide_border=true"
+  />
+</a>
+
+</div>
+
+---
+
+## 📈 My GitHub Statistics
+
+<div align="center">
+
+<img
+  height="180em"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZamiFaiz24&show_icons=true&theme=react&border_radius=10&hide_border=true"
+/>
+
+<img
+  height="180em"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZamiFaiz24&layout=compact&theme=react&border_radius=10&hide_border=true"
+/>
+
+</div>
 
 ---
 
-### 📈 My GitHub Statistic
+## 🔥 GitHub Activity
 
-<h3 align="center">📈 Statistic </h3>
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ZamiFaiz24&show_icons=true&theme=react&border_radius=10" alt="Statistik GitHub ZamiFaiz24" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZamiFaiz24&layout=compact&theme=react&border_radius=10&exclude_repo=Capstone_Project,Analisis-Sentimen-Pilpres-2024&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-</p>
+<div align="center">
 
-<h3 align="center">📈 GitHub Activity </h3>
-<p align="center">
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZamiFaiz24&theme=react&border_radius=10" alt="GitHub Streak" />
-  <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZamiFaiz24&theme=react&hide_border=true&color=20c20e" alt="Aktivitas Kontribusi" />
-</p>
+<img
+  height="180em"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=ZamiFaiz24&theme=react&border_radius=10&hide_border=true"
+/>
 
-<h3 align="center">Contribution Snake 🐍</h3>
-<p align="center">
-  <img src="https://github.com/ZamiFaiz24/ZamiFaiz24/blob/output/github-contribution-grid-snake-dark.svg" alt="snek" />
-</p>
+</div>
+
+<div align="center">
+
+<img
+  width="90%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ZamiFaiz24&theme=react-dark&hide_border=true"
+/>
+
+</div>
 
 ---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img
+  width="85%"
+  src="https://github.com/ZamiFaiz24/ZamiFaiz24/blob/output/github-contribution-grid-snake-dark.svg"
+/>
+
+</div>
