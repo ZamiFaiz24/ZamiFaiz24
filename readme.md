@@ -68,14 +68,14 @@
 <a href="https://github.com/ZamiFaiz24/Capstone_Project">
   <img
     width="49%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ZamiFaiz24&repo=Capstone_Project&theme=react&border_radius=12&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=ZamiFaiz24&repo=Capstone_Project&theme=react&border_radius=12&hide_border=true"
   />
 </a>
 
-<a href="https://github.com/ZamiFaiz24/BE_BPS_Mobile">
+<a href="https://github.com/ZamiFaiz24/kreava-digital-marketplace">
   <img
     width="49%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ZamiFaiz24&repo=BE_BPS_Mobile&theme=react&border_radius=12&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=ZamiFaiz24&repo=kreava-digital-marketplace&theme=react&border_radius=12&hide_border=true"
   />
 </a>
 
@@ -89,12 +89,12 @@
 
 <img
   height="180em"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZamiFaiz24&show_icons=true&theme=react&border_radius=10&hide_border=true"
+  src="https://github-stats-extended.vercel.app/api?username=ZamiFaiz24&show_icons=true&theme=react&border_radius=10&hide_border=true"
 />
 
 <img
   height="180em"
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZamiFaiz24&layout=compact&theme=react&border_radius=10&hide_border=true"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=ZamiFaiz24&layout=compact&theme=react&border_radius=10&hide_border=true"
 />
 
 </div>
@@ -107,16 +107,7 @@
 
 <img
   height="180em"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=ZamiFaiz24&theme=react&border_radius=10&hide_border=true"
-/>
-
-</div>
-
-<div align="center">
-
-<img
-  width="90%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ZamiFaiz24&theme=react-dark&hide_border=true"
+  src="https://streak-stats.demolab.com/?user=ZamiFaiz24&theme=react&border_radius=10&hide_border=true&date_format=j%20M%5B%20Y%5D"
 />
 
 </div>
